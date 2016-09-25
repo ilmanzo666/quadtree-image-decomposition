@@ -16,4 +16,4 @@ sz  = min split size
 std = image standard deviation to split
 
 Image example:
-
+![ScreenShot](qdemo.jpg)
