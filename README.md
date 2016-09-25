@@ -10,6 +10,7 @@ Opencv 2.4.9
 
 Usage:
 $ python pyImgQuadTree.py -img test.tif -sz 20 -std 25.0
+
 img = input image
 sz  = min split size
 std = image standard deviation to split
